@@ -1,0 +1,49 @@
+#a{
+
+    background-image:url(img/binding-light.png); 
+    border-bottom: 1px solid black;
+    margin-top: -2.5%;
+  }
+
+ .wele{
+
+  position:absolute;
+  top: 370px;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  font-family:'Bubblegum Sans',Old English Text MT;
+  color:white;
+  font-size: 70px;
+}
+ 
+  #aboutus{
+float: right;
+width: 45%;
+margin-right:5% ;
+box-sizing: border-box;
+
+}
+#mission
+{   
+  width: 40%;}
+}
+#ourmission
+{
+width: 60%;
+ margin-left: 3%;
+ padding-left:2%;
+ padding-top: 3%;
+ padding-right:3%;  
+ background-image:url(img/binding-light.png);
+ opacity:2;
+ float: left;
+
+}
+#abo{
+  margin-top: 2%;
+  width:24%; 
+float: right;
+border:1px solid black; 
+height: 200px;
+margin-right: 4%;
+}
